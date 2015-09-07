@@ -1,5 +1,5 @@
 package bookstore;
-import java.text.DecimalFormat;//Utility so DecimalFormat can be declared.
+import java.text.DecimalFormat; //Utility so DecimalFormat can be declared.
 import java.util.Scanner; //Utility so scanner can be declared. 
 /**
  * Filename: bookstore.java
